@@ -16,3 +16,6 @@ Genel özellikler:
 - MS5611 Pressure Sensor (I2C ATMEGA)
 - 70*32m board
 - Breadboard compatible
+
+![](https://github.com/alipasaoksuz/TEKNOFEST-Model-Satellite-23-Container/blob/main/ContainerPCB_3d.jpg)
+![](https://github.com/alipasaoksuz/TEKNOFEST-Model-Satellite-23-Container/blob/main/ContainerPCB_3d_flipped.jpg)
